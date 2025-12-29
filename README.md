@@ -15,6 +15,17 @@ This model uses: Модель использует:
 - **fair odds** calculated as `1 / probability`
 
 ---
+## Project Goals
+
+- predict the probability of a team's victory **before a vatch**
+- account for:
+  - roster changes
+  - team core stability
+  - goalie impact
+- compare model-implied adds with bookmaker liens
+- buold a transparent and interpretable ML pipline
+
+---
 
 ## Data Sources
 
@@ -27,7 +38,7 @@ Data coverage:
 - current NHGL season
 - two presious NHL seasons
 
-  All boxscore data is cached locally to speed up repeated runs.
+All boxscore data is cached locally to speed up repeated runs.
 
   ---
 
