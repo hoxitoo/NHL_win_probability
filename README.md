@@ -1,4 +1,4 @@
-ENG/RUS
+ENG VERSION
 
 # NHL_win_probability
 NHL win probability model(incl.OT/SO) 
