@@ -80,3 +80,5 @@ Calculated as the average contribution of all skaters over the last **N games**:
 Home team win probability: 60.0%
 Fair odds: 1.67
 
+This project is for educational and analytical purposes only.
+It does not provide betting advice and does not guarantee outcomes.
