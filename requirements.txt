@@ -1,0 +1,21 @@
+# Core
+python-dateutil==2.9.0.post0
+
+**Python version:** 3.11 (recommended)
+
+# Data manipulation
+numpy==1.26.4
+pandas==2.2.2
+
+# Machine Learning
+scikit-learn==1.4.2
+
+# HTTP requests
+requests==2.32.3
+
+# Jupyter
+notebook==7.2.1
+ipykernel==6.29.5
+
+# Utilities
+tqdm==4.66.4
